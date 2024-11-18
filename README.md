@@ -1,3 +1,8 @@
+# Information about repository
+You can change code and improve feel free :)
+Don't forget subscribe on channel [PicsWorld](https://www.youtube.com/@picsworldstudio/featured)
+And also you can find tutorial this project on my youtube channel: [Tutorial: Easy Steps To Build A Stylish Slider With Swiper.js #reactjs](https://youtu.be/FzxLqtBPZe4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
